@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}% 
+\contentsline {section}{\numberline {2}Anaerobic Digesters (ADs)}{3}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Operating Temperature}{3}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Feeding Mode}{4}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}Total Solid Content (TS)}{4}{subsection.2.3}% 
+\contentsline {subsection}{\numberline {2.4}Types of Anaerobic Digesters}{5}{subsection.2.4}% 
+\contentsline {subsubsection}{\numberline {2.4.1}Continuously Stirred Tank Reactors (CSTRs)}{5}{subsubsection.2.4.1}% 
+\contentsline {section}{\numberline {3}Sludge Rheology}{5}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Power-Law Model}{6}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Viscoplastic Bingham Model}{7}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}Viscoplastic Herschel-Bulkley Model}{8}{subsection.3.3}% 
+\contentsline {section}{\numberline {4}Mixing Hydrodynamics}{8}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Mixing Strategies}{8}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Mixing Characterization}{9}{subsection.4.2}% 
+\contentsline {subsubsection}{\numberline {4.2.1}Cavern}{9}{subsubsection.4.2.1}% 
+\contentsline {subsubsection}{\numberline {4.2.2}Concentration}{12}{subsubsection.4.2.2}% 
+\contentsline {section}{\numberline {5}Conclusion and Future Research Works}{14}{section.5}% 
