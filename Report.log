@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2024.6.19)  11 JUL 2025 09:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2024.6.19)  18 JUL 2025 12:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -491,15 +491,14 @@ Package rerunfilecheck Info: File `Report.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 330.
  )
-(\end occurred inside a group at level 8)
+(\end occurred inside a group at level 7)
 
-### simple group (level 8) entered at line 318 ({)
-### simple group (level 7) entered at line 314 ({)
-### simple group (level 6) entered at line 309 ({)
-### simple group (level 5) entered at line 304 ({)
-### simple group (level 4) entered at line 299 ({)
-### simple group (level 3) entered at line 294 ({)
-### simple group (level 2) entered at line 290 ({)
+### simple group (level 7) entered at line 318 ({)
+### simple group (level 6) entered at line 314 ({)
+### simple group (level 5) entered at line 309 ({)
+### simple group (level 4) entered at line 304 ({)
+### simple group (level 3) entered at line 299 ({)
+### simple group (level 2) entered at line 294 ({)
 ### simple group (level 1) entered at line 284 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
@@ -509,7 +508,7 @@ Here is how much of TeX's memory you used:
  12141 multiletter control sequences out of 15000+600000
  5960 words of font info for 22 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,11n,43p,399b,403s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,11n,43p,399b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></u
@@ -517,7 +516,7 @@ sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Report.pdf (2 pages, 115254 bytes).
+Output written on Report.pdf (2 pages, 115224 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
